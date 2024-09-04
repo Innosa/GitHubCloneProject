@@ -1,7 +1,3 @@
- Practice creating branches for feature development, merging branches, and resolving merge conflicts to simulate a common collaborative workflow on Git and GitHub.
+Merge branch 'feature-greeting' into main
 
-
-
-
-
-This line was added as a new modification to the README.md file.
+Added new greeting feature to the main branch.
